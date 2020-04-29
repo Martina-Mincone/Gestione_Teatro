@@ -20,7 +20,7 @@ public class UsaSpettacolo {
 		s.stampaPrenotazioni();
 		
 		//stampa posti ancora disponibili
-		System.out.println("Ci sono ancora "+ s.postiDisponibili()+" posti disponibili");
+		System.out.println("Posti disponibili "+ s.postiDisponibili()+" posti disponibili");
 		
 	}
 }
